@@ -20,7 +20,7 @@
   </parent>
 
   <properties>
-    <java.version>21</java.version>
+    <java.version>17</java.version>
     <!-- Versão do Springdoc (Swagger UI) -->
     <springdoc.version>2.6.0</springdoc.version>
 
